@@ -1,6 +1,4 @@
-I'd be glad to create a detailed README for your code, incorporating insights from the ratings and addressing the prompt's request for specifics:
-
-**Project: Malaria Analysis and Prediction in Ouake Health Centre**
+## Project: Malaria Analysis and Prediction in Ouake Health Centre ##
 
 **Introduction:**
 
